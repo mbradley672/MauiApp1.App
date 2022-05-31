@@ -12,7 +12,9 @@
         <Button x:Name = "CallButton"
                 Text = "Call"
                 IsEnabled = "False"
-                Clicked = "OnCall"/>
+                Clicked = "OnCall"
+                />
     </VerticalStackLayout>
- 
+
+    
 </ContentPage>
